@@ -12,17 +12,13 @@
 
 
 <!-- 个人简介-->
-<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
+<div align="center"><a href="https://pocon041.github.io/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Know thyself, and you shall find thy way. ;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
 <h3 align="center">A passionate AI algorithm engineer from Shanghai China</h3>
 
 <br><br>
-<!-- Star 2023-->
-<div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
 
 <!-- 数据展示-主题&theme=radical-->
-<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18&theme=radical&hide_border=true" />
-&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 
 <!-- 展示总贡献量，输出图片颜色不一样-->
 <!-- <div align="center">
