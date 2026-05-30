@@ -6,7 +6,7 @@
 
 
 <!-- 个人简介-->
-<div align="center"><a href="https://pocon041.github.io/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Know thyself ;I'm+Pocon041.+Welcome+!&center=true&size=27"> </a> </div>
+<!-- <div align="center"><a href="https://pocon041.github.io/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Know thyself ;I'm+Pocon041.+Welcome+!&center=true&size=27"> </a> </div> -->
 <h3 align="center">A student in Ocean University of China majoring in Cybersecurity and now working on Computer Vision.</h3>
 
 <br><br>
