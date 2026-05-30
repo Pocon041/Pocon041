@@ -19,9 +19,9 @@ Keep the existing GitHub profile README layout while making it belong to
 
 ## Workflow Design
 
-The workflow will use `actions/checkout@v4`, generate both snake SVG variants,
-and publish the generated `dist` directory with
-`crazy-max/ghaction-github-pages@v4.2.0`.
+The workflow will generate both snake SVG variants with
+`Platane/snk/svg-only@v3` and publish the generated `dist` directory with
+`crazy-max/ghaction-github-pages@v4`.
 
 Triggers:
 
