@@ -1,14 +1,38 @@
+```text
+          _____                   _______                   _____                   _______                   _____
+         /\    \                 /::\    \                 /\    \                 /::\    \                 /\    \
+        /::\    \               /::::\    \               /::\    \               /::::\    \               /::\____\
+       /::::\    \             /::::::\    \             /::::\    \             /::::::\    \             /::::|   |
+      /::::::\    \           /::::::::\    \           /::::::\    \           /::::::::\    \           /:::::|   |
+     /:::/\:::\    \         /:::/~~\:::\    \         /:::/\:::\    \         /:::/~~\:::\    \         /::::::|   |
+    /:::/__\:::\    \       /:::/    \:::\    \       /:::/  \:::\    \       /:::/    \:::\    \       /:::/|::|   |
+   /::::\   \:::\    \     /:::/    / \:::\    \     /:::/    \:::\    \     /:::/    / \:::\    \     /:::/ |::|   |
+  /::::::\   \:::\    \   /:::/____/   \:::\____\   /:::/    / \:::\    \   /:::/____/   \:::\____\   /:::/  |::|   | _____
+ /:::/\:::\   \:::\____\ |:::|    |     |:::|    | /:::/    /   \:::\    \ |:::|    |     |:::|    | /:::/   |::|   |/\    \
+/:::/  \:::\   \:::|    ||:::|____|     |:::|    |/:::/____/     \:::\____\|:::|____|     |:::|    |/:: /    |::|   /::\____\
+\::/    \:::\  /:::|____| \:::\    \   /:::/    / \:::\    \      \::/    / \:::\    \   /:::/    / \::/    /|::|  /:::/    /
+ \/_____/\:::\/:::/    /   \:::\    \ /:::/    /   \:::\    \      \/____/   \:::\    \ /:::/    /   \/____/ |::| /:::/    /
+          \::::::/    /     \:::\    /:::/    /     \:::\    \                \:::\    /:::/    /            |::|/:::/    /
+           \::::/    /       \:::\__/:::/    /       \:::\    \                \:::\__/:::/    /             |::::::/    /
+            \::/____/         \::::::::/    /         \:::\    \                \::::::::/    /              |:::::/    /
+             ~~                \::::::/    /           \:::\    \                \::::::/    /               |::::/    /
+                                \::::/    /             \:::\    \                \::::/    /                /:::/    /
+                                 \::/____/               \:::\____\                \::/____/                /:::/    /
+                                  ~~                      \::/    /                 ~~                      \::/    /
+                                                           \/____/                                           \/____/
+```
+
 <!-- <h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1> -->
 
 
 <!-- 个人简介-->
-<div align="center"><a href="https://pocon041.github.io/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Know thyself, and you shall find thy way. ;I'm+Pocon041.+Welcome+!&center=true&size=27"> </a> </div>
-<h3 align="center">A passionate AI algorithm engineer from Shanghai China</h3>
+<div align="center"><a href="https://pocon041.github.io/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Know thyself ;I'm+Pocon041.+Welcome+!&center=true&size=27"> </a> </div>
+<h3 align="center">A student in Ocean University of China majoring in Cybersecurity and now working on Computer Vision.</h3>
 
 <br><br>
 
 <!-- 数据展示-主题&theme=radical-->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pocon041&theme=radical&hide_border=true" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pocon041&theme=radical&hide_border=true" /> -->
 
 <!-- 展示总贡献量，输出图片颜色不一样-->
 <!-- <div align="center">
@@ -18,20 +42,17 @@
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://twitter.com/chenorange2219/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@chenorange2219"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/321166054/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/royal_killer?spm=1011.2124.3001.5343/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people//ha-lou-kti-44-92/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://x.com/Pocon140"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/12838325?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.cnblogs.com/Pocon"><img src="https://img.shields.io/badge/CNBlog-博客-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Pocon041&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 	
 ---
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
+<!-- <a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
   <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
-</a>
+</a> -->
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -40,7 +61,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Pocon041/Pocon041/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
+<!-- </div>
 
 
 
@@ -55,7 +76,7 @@
   </td>
 </tr>
 
-</div>
+</div> -->
 
 ---
 <!-- <div align="center">
@@ -80,10 +101,10 @@
 </div>  -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Pocon041&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocon041&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</p>
+</p> -->
 
 <!-- <div align="left">
   <img height='160' src="https://github-readme-stats.vercel.app/api?username=Pocon041&show_icons=true&theme=tokyonight" align="center" />
@@ -98,12 +119,12 @@
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Pocon041&theme=xcode" /> </div> -->
 <!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pocon041" /> </div>  -->
 
-<H2>Favorite Movie ❤️</H2>
+<!-- <H2>Favorite Movie ❤️</H2>
 <div align="center">
 <img height="200" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true">
 </div>
 
 <!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img  width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
+<!-- <p align="center">
+<img  width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&>height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p> -- -->
