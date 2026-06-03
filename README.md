@@ -8,13 +8,13 @@
 <!-- 个人简介-->
 <!-- <div align="center"><a href="https://pocon041.github.io/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Know thyself ;I'm+Pocon041.+Welcome+!&center=true&size=27"> </a> </div> -->
 <h3 align="center">A student in Ocean University of China majoring in Cybersecurity and now working on Computer Vision.</h3>
-
+<h3 align="center">How to reach me: gjk49892@gmail.com</h3>
 <br><br>
 
 <!-- 数据展示-主题&theme=radical-->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pocon041&theme=radical&hide_border=true" /> -->
 
-<!-- 展示总贡献量，输出图片颜色不一样-->
+<!-- 展示总贡献量，输出图片颜色不一样-
 <!-- <div align="center">
 	<img  src="https://streak-stats.demolab.com/?user=Pocon041&theme=gruvbox&border_radius=20&locale=zh_Hans&date_format=%5BY.%5Dn.j" /><br>
 </div> -->
