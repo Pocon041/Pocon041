@@ -25,6 +25,7 @@
     <a href="https://x.com/Pocon140"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/12838325?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.cnblogs.com/Pocon"><img src="https://img.shields.io/badge/CNBlog-博客-c32136" /></a>&emsp;
+    <a href="https://pocon041.github.io/"><img src="https://img.shields.io/badge/Blog-博客-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Pocon041&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
