@@ -7,7 +7,7 @@
 
 <!-- 个人简介-->
 <!-- <div align="center"><a href="https://pocon041.github.io/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Know thyself ;I'm+Pocon041.+Welcome+!&center=true&size=27"> </a> </div> -->
-<h3 align="center">A student in Ocean University of China majoring in Cybersecurity and now working on Computer Vision.</h3>
+<h3 align="center">A final-year student in Ocean University of China majoring in Cybersecurity and now working on Computer Vision.</h3>
 <h3 align="center">How to reach me: gjk49892@gmail.com</h3>
 <br><br>
 
